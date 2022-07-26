@@ -1,0 +1,26 @@
+body
+{
+    padding-left: 20%;
+    padding-top: 60px;
+}
+.sec-nav
+{
+    position: fixed;
+    padding-top:70px ;
+    
+    border-bottom-width: 5pt;
+    border-bottom-color: darkgray;
+}
+.cor_container
+{
+    
+    
+    width: 55%;
+    background-color:whitesmoke;
+}
+.cor_container img
+{ 
+    
+    height: 320px;
+    
+}
